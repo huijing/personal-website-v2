@@ -26,10 +26,22 @@ permalink: /resume/
 ### Work experience
 
 <section class="jobs">
-  <input id="ilf" name="job" type="checkbox" checked>
+  <input id="circle" name="job" type="checkbox" checked>
+  <label for="circle"><h4>Circle <small>(July 2025 - Present)</small></h4></label>
+  <article>
+    <p class="no-margin"><strong>Developer Relations Senior Manager</strong> focused on enhancing the developer experience across building with Circle products.</p>
+    <ul>
+      <li class="no-margin">Building and testing sample applications to validate SDKs</li>
+      <li class="no-margin">Creating content to showcase how to build with Circle APIs</li>
+      <li class="no-margin">Close collation with technical writers to refine developer documentation</li>
+      <li class="no-margin">Engaging our developer community to facilitate the growth of stablecoin finance infrastructure</li>
+    </ul>
+  </article>
+
+  <input id="ilf" name="job" type="checkbox">
   <label for="ilf"><h4>Interledger Foundation <small>(Jun 2023 - July 2025)</small></h4></label>
   <article>
-  <p class="no-margin"><strong>Chief Operating Officer</strong> who transitioned from hands-on builder to strategic operational leadership, overseeing the organization's day-to-day operations, implementing strategic initiatives, and driving the Foundation's growth.</p>
+    <p class="no-margin"><strong>Chief Operating Officer</strong> who transitioned from hands-on builder to strategic operational leadership, overseeing the organization's day-to-day operations, implementing strategic initiatives, and driving the Foundation's growth.</p>
     <ul>
       <li class="no-margin">Collaborating with CEO to develop and execute on the Foundation’s strategic initiatives and long-term plans</li>
       <li class="no-margin">Working closely with the Director of Finance to improve the budget management process and enhance communication between the Finance department and respective department leads</li>
